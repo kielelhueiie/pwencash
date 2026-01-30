@@ -13,6 +13,7 @@ Contrairement aux applications classiques, ce projet a été développé avec un
 * **Backend:** Node.js / Express
 * **Database:** SQL
 * **Security:** JWT (JSON Web Tokens), Bcrypt, Helmet.js
+* **Environment**: Kali Linux
 
 ## Fonctionnalités de Sécurité (Ton point fort)
 * **Anti-Injection SQL & NoSQL:** Nettoyage automatique de toutes les entrées utilisateurs.
